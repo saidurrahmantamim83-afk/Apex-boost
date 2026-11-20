@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ApexBoost</string>
+    <string name="nav_cockpit">Cockpit</string>
+    <string name="nav_games">Vault</string>
+    <string name="nav_fps_lab">60 FPS Lab</string>
+    <string name="nav_settings">Tuning</string>
+    <string name="boost_now">OPTIMIZE &amp; LOCK</string>
+    <string name="boost_active">PERFORMANCE LOCKED</string>
+    <string name="fps_lock_title">60 FPS Frame Lock</string>
+    <string name="max_perf_title">Max Performance Lock</string>
+    <string name="cpu_optimizer_title">CPU Thread Priority</string>
+    <string name="ram_cleaner_title">RAM Memory Sweep</string>
+</resources>

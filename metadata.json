@@ -1,0 +1,6 @@
+{
+  "name": "ApexBoost",
+  "description": "Game performance booster that optimizes CPU and RAM, locks max performance mode, and enforces a 60 FPS frame rate lock for gaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
